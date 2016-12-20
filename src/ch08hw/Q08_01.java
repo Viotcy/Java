@@ -6,10 +6,10 @@ public class Q08_01 {
 		for (int i = 0; i < ar.length; i++) {
 			try {
 				sum += Integer.parseInt(ar[i]);
-			} catch (Exception e) { // 發生例外時跳過此次迴圈繼續執行
+			} catch (Exception e){
 				continue;
 			}
-			System.out.println("sum116516=" + sum);
+			System.out.println("sum=" + sum);
 		}
 	}
 
@@ -20,6 +20,4 @@ public class Q08_01 {
 }
 
 
-fjwifjweifjweojfioerghopghiopghioaerhgio[aergp[aerigjiaer
-jiejgiae[gjgiaergaerg
-gjeriagj'aer
+
