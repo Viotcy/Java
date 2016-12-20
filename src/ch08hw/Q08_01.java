@@ -6,10 +6,10 @@ public class Q08_01 {
 		for (int i = 0; i < ar.length; i++) {
 			try {
 				sum += Integer.parseInt(ar[i]);
-			} catch (Exception e) { // µo¥Í¨Ò¥~®É¸õ¹L¦¹¦¸°j°éÄ~Äò°õ¦æ
+			} catch (Exception e) { // ç™¼ç”Ÿä¾‹å¤–æ™‚è·³éŽæ­¤æ¬¡è¿´åœˆç¹¼çºŒåŸ·è¡Œ
 				continue;
 			}
-			System.out.println("sum=" + sum);
+			System.out.println("sum116516=" + sum);
 		}
 	}
 
